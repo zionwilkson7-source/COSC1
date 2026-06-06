@@ -4,36 +4,7 @@ Get numPizzas                          // assume 1 to 5
 total = 0
   for i = 1 to numPizzas
         Get radius[i]
-        Get price[i]
+        Get price [i]
         valuePerInch[i] = ComputeValue(radius[i], price[i])
-        total = total + price[i]
-
-        end for
-
-if total >= 50.00
-     deliveryCharge = 0
-else
-     deliveryCharge = 8.00
-    end if
-
-totalBill = total + deliveryCharge
-
-bestPizza = FindBestDeal(valuePerInch, numPizzas)
-
-Print "Total Bill: $", totalBill
-Print "Best Deal Pizza: $", bestPizza
-Print "Price Per Square Inch: ", valuePerInch[bestPizza]
-
-End Main Algorithm
-
-Subproblem - ComputeValue(radius, price)
-
-bestPizza = 1
-lowestValue = valuePerInch[1]
-
-for i = 2 numPizzas
-  if valuePerInch[i] < lowestValue
-  lowestValue = valuePerInch[i]
-  end if
-  
-  end for
+        total = total + price[1]
+        
