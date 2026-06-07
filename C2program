@@ -1,0 +1,48 @@
+#include <iostream>
+#include <iomanip>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    //Part B: named constants
+    const double TAX_RATE = 0.14;
+    const int BONUS = 50;
+
+    // Part C: Variables
+    string name;
+    double payRate;
+    double hoursWorked;
+    double grossPay;
+    double tax;
+    double netpay;
+
+    //format decimals
+    cout << fixed << setprecision(2);
+
+    //Part D
+    cout << "Enter last name: ";
+    cin >> name;
+
+    cout << "Enter hourly pay rate: ";
+    cin >> payRate;
+
+    cout << "Enter hours worked this week: ";
+    cin >> hoursWorked;
+
+    // Part E
+    grossPay = payRate * hoursWorked;
+    tax = grossPay * TAX_RATE;
+    netpay = grossPay - tax + BONUS;
+
+    cout << endl;
+    cout << "Employee: " << name << endl;
+    cout << "Pay Rate: $" << payRate << endl;
+    cout << "Hours Worked: " << hoursWorked << endl;
+    cout << "Gross Pay: $" << grossPay << endl;
+    cout << "Tax (14%): $" << tax << endl;
+    cout << "Net Pay (after tax + $50 bonus): $" << netpay << endl;
+
+    return 0;
+}
