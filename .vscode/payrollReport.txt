@@ -1,0 +1,24 @@
+Name: John Smith, Department: Sales
+Monthly Gross Salary: $ 5000.00, Bonus: 10.00%, Taxes: 15.00%
+Paycheck: $ 4750.00
+Distance Traveled:   150.00 miles, Travel Time:  2.50 hours
+Average Speed:    60.00 miles per hour
+
+Name: Jane Doe, Department: Engineering
+Monthly Gross Salary: $ 6000.00, Bonus: 12.00%, Taxes: 18.00%
+Paycheck: $ 5640.00
+Distance Traveled:   200.00 miles, Travel Time:  3.00 hours
+Average Speed:    66.67 miles per hour
+
+Name: Mike Johnson, Department: Marketing
+Monthly Gross Salary: $ 4500.00, Bonus:  8.00%, Taxes: 14.00%
+Paycheck: $ 4230.00
+Distance Traveled:   100.00 miles, Travel Time:  1.50 hours
+Average Speed:    66.67 miles per hour
+
+Name: Sarah Williams, Department: HR
+Monthly Gross Salary: $ 5500.00, Bonus: 10.00%, Taxes: 16.00%
+Paycheck: $ 5170.00
+Distance Traveled:   175.00 miles, Travel Time:  2.75 hours
+Average Speed:    63.64 miles per hour
+

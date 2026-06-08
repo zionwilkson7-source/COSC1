@@ -1,0 +1,4 @@
+John Smith Sales 5000 10 15 150 2.5
+Jane Doe Engineering 6000 12 18 200 3
+Mike Johnson Marketing 4500 8 14 100 1.5
+Sarah Williams HR 5500 10 16 175 2.75
