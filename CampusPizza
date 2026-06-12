@@ -20,7 +20,7 @@ totalBill = total + deliveryCharge
 bestPizza = FindBestDeal(valuePerInch, numPizzas)
 
 Print "Total Bill: $", totalBill
-Print "Best Deal Pizza: $", bestPizza
+Print "Best Deal Pizza: ", bestPizza
 Print "Price Per Square Inch: ", valuePerInch[bestPizza]
 
 End Main Algorithm
