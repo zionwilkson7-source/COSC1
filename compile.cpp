@@ -1,11 +1,10 @@
 // ============================================================
-// Name    : Grok AI
+// Name    : Zion Wilson
 // Course  : COSC 1437 — Programming Fundamentals II
 // Date    : June 13, 2026
 // Program : Chapter 5 Major Project
 // Option  : B — Loan Amortization
-// Purpose : Computes and displays a detailed loan amortization schedule with validation,
-//           progress visualization, and multiple loop types to analyze repayment.
+// Purpose : Computes and displays the loan amortization schedule
 // ============================================================
 
 // ===== SECTION 1: PSEUDOCODE DESIGN BLOCK =====
