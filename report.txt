@@ -1,0 +1,32 @@
+---------------------------------------------
+            ANNUAL CLASS GRADE REPORT
+---------------------------------------------
+Student Name                    Test Score     Grade
+---------------------------------------------
+Garza, Maria                        88         B
+Thomas, Jake                        72         C
+Brown, Aaliyah                      95         A
+Smith, John                         61         D
+Nguyen, David                       90         A
+Davis, Emily                       100         A
+Chang, Michael                      84         B
+Connor, Sarah                       78         C
+Miller, Robert                      55         F
+Wilson, Sophia                      95         A
+Anderson, James                     82         B
+Taylor, Linda                       90         A
+Thomas, William                     74         C
+Jackson, Elizabeth                 100         A
+White, Richard                      68         D
+Harris, Jessica                     89         B
+Martin, Charles                     70         C
+Thompson, Karen                     83         B
+Garcia, Matthew                     91         A
+Martinez, Nancy                     60         D
+---------------------------------------------
+
+Highest Test Score: 100
+
+Students with the Highest Score:
+- Davis, Emily
+- Jackson, Elizabeth
