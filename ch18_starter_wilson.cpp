@@ -1,7 +1,7 @@
 // ============================================================
 // COSC 1437 - Chapter 18: Searching and Sorting Algorithms
-// Name:
-// Date:
+// Name: Zion Wilson
+// Date: June 28, 2026
 // ============================================================
 
 #include <iostream>
